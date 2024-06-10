@@ -72,4 +72,4 @@ This project is licensed under the MIT License. For more details, see the LICENS
 
 ## Contact
 
-Got questions or feedback? Feel free to create an issue or reach out via email at email@example.com. Let's make your goose the best it can be!
+Got questions or feedback? Feel free to create an issue or reach out via email at dzhelianchykelmaz@gmail.com. Let's make your goose the best it can be!
